@@ -31,29 +31,29 @@ Você pode acessar o site clicando aqui: https://trabalho-final-react-xi.vercel.
 
 ## Tecnologias usadas
 
-Ferramenta                                              Descrição
+Ferramentas                                             
                                               
-- ReactJS                                               framework web
--Vite                                                   gerador de projeto de front-end
-- npm                                                   gerenciador de pacotes
-- Firebase                                              Ferramenta realtime database para gravar as mensagens de contato
-- Module CSS                                            Ferramenta para ter mais produtividade ao estilizar a aplicação
-- Phosphor                                              Dependência com icones super legais
-- React router dom                                      Dependência para criar rotas no reactjs
-- Axios                                                 Dependência para consumir api
-- Vercel                                                Hospedagem para a aplicação, fiz o deploy integrado com o github
-- Github                                                Hospedagem do código fonte integrado com gerenciador de versionamento
+- ReactJS-----( framework web )
+- Vite--------( gerador de projeto de front-end)
+- npm---------(gerenciador de pacotes )
+- Firebase-----(Ferramenta realtime database para gravar as mensagens de contato)
+- Module CSS---( Ferramenta para ter mais produtividade ao estilizar a aplicação)
+- Phosphor-----( Dependência com icones) 
+- React router dom-----( Dependência para criar rotas no reactjs)
+- Axios--------(Dependência para consumir api)
+- Vercel-------(Hospedagem para a aplicação,deploy integrado com o github)
+- Github-------( Hospedagem do código fonte integrado com gerenciador de versionamento)
 
-Como rodar o Projeto
+## Como rodar o Projeto
 
-Passos                                                            Comandos/informação
+Passos                                                            
 
-- Faça o fork                                                          botão forkar
-- Faça o clone                                                         git clone
-- Instale as dependências após acessar a pasta do projeto              npm i
-- Rode o projeto                                                       npm run dev
+- Faça o fork ( botão forkar) 
+- Faça o clone (git clone)
+- Instale as dependências após acessar a pasta do projeto (npm i)
+- Rode o projeto (npm run dev)
 - Criar variáveis de ambiente,integrar com firebase,
-- incluir os valores da sua conta                                      .env .example 
+  incluir os valores da sua conta  ( .env .example ) 
 
 Variáveis de Ambiente
 
@@ -65,15 +65,16 @@ Variáveis de Ambiente
 - VITE_APP_ID=
 - VITE_DATABASE_URL=
 
-Próximos passos mapeados
+# Próximos passos mapeados
 
 - Revisar CSS
 - Revisar acessibilidade
 - Revisar responsividade
+- Revisar README 
 
 Para dúvidas ou sugestões, entre em contato.
 
-Redes Sociais
+# Redes Sociais
 
 - https://github.com/RaimundaCarvalho
 - https://www.linkedin.com/in/raimundacarvalho/
