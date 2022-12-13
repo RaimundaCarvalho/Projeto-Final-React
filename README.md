@@ -15,7 +15,7 @@ Neste site, apresento os conceitos fundamentais que foram estudados durante o m�
 - "Olá, mundo!"
 - Componentes e Jsx
 - Props
-- States
+- State
 - Intordução aos eventos
 - Listas e chaves
 - Introdução ao Hooks(useState e useEfect)
@@ -53,7 +53,7 @@ Passos
 - Instale as dependências após acessar a pasta do projeto (npm i)
 - Rode o projeto (npm run dev)
 - Criar variáveis de ambiente,integrar com firebase,
-  incluir os valores da sua conta  ( .env .example ) 
+  incluir os valores da sua conta  ( conforme .env .example ) 
 
 Variáveis de Ambiente
 
